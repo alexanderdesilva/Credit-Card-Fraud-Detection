@@ -1,3 +1,7 @@
-# Credit-Card-Fraud-Detection
-A Power BI dashboard containing four visuals analysing credit card fraud for 2026 including authentication methods to detect fraud, merchants associated with fraud, and payment channels where fraud takes place.
+# Credit Card Fraud Detection Power BI Dashboard Project
+## About this project
+This project focuses on analysing a dataset of credit card scams detected in 2026. The dataset includes different credit card providers, payment authentication methods associated with these scams, merchants associated with these scams, if the scam attempt is performed by an AI, and more information. The dataset is free to download and use from Kaggle: https://www.kaggle.com/datasets/uditjain13/credit-card-fraud-detection-2026
+## The project task
+To analyse the data, I created a Power BI dashboard containing four visuals analysing credit card fraud including authentication methods to detect fraud, merchants associated with fraud, and payment channels where fraud takes place. After understanding what I wish to find out from the dataset, including which authentication methods catch the most fraud, are AI-generated scam attempts harder to catch and which payment cards and merchants are the most fraud-heavy targets, I first loaded the data into Power BI's Power Query, cleaning and validating the data ensuring the data is free from missing or erroneuos entries. I then created four visuals to interpret the data and uncover the results to answer these questions. 
 <img width="2076" height="1162" alt="Screenshot 2026-09-10 170244" src="https://github.com/user-attachments/assets/ee67bf45-6b19-4051-adba-b29f4f15d92a" />
+## The insights
